@@ -8,7 +8,7 @@ x2
 y
 ls() #variables in env
 women
-
+?women
 ?AirPassengers
 data() # datasets available for use
 
